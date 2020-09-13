@@ -3,3 +3,4 @@ Hello world!
 Good buy!
 line from user2
 line from user1
+some new feature
